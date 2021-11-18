@@ -46,7 +46,7 @@ Read the error message from the failing test, and write as little code as possib
 
 Clean up your code, reducing any duplication you may have introduced. This includes your code as well as your tests.
 
-![Image Test](https://templars.guru/app/github/js_factorial_tdd/1.PNG)
+![Image Test](https://github.com/antoineratat/github_docs/blob/main/js_factorial_tdd/1.PNG?raw=true)
 
 ## Technologies
 
